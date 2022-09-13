@@ -1,0 +1,521 @@
+BPM:
+60
+
+Offset:
+0
+
+	M1
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Display In this game you will have to press the space bar at the right time.
+}
+
+{
+Time:
+Beat 4
+
+Event:
+Subtitle Press the space bar to continue...
+}
+REPEAT Space
+]
+--------------
+	M2
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Display Press the space bar at the moment that this square expands to its largest size.
+}
+
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+REPEAT Target
+]
+--------------
+	M3
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Display Nice! Try it again...
+}
+
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+REPEAT Target
+]
+--------------
+	M4
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Display Nice! Try it again...
+}
+
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+REPEAT Target
+]
+--------------
+	M5
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M6
+[
+No
+]
+--------------
+	M7
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 1.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M8
+[
+No
+]
+
+--------------
+	M9
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M10
+[
+No
+]
+--------------
+	M11
+[
+Yes
+	B1
+{
+Time:
+Beat 1.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M12
+[
+No
+]
+--------------
+	M13
+[
+Yes
+
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M14
+[
+No
+]
+--------------
+	M15
+[
+Yes
+	B1
+{
+Time:
+Beat 1.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M16
+[
+No
+]
+--------------
+	M17
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 4
+}
+STOP
+]
+--------------
+	M18
+[
+No
+]
+--------------
+	M19
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M20
+[
+No
+]
+--------------
+	M21
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 4
+}
+STOP
+]
+--------------
+	M22
+[
+No
+]
+--------------
+	M23
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M24
+[
+No
+]
+--------------
+	M25
+[
+Yes
+	B1
+{
+Time:
+Beat 1.5
+
+Event:
+Square 3
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M26
+[
+No
+]
+--------------
+	M27
+[
+Yes
+	B1
+{
+Time:
+Beat 1.5
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M28
+[
+No
+]
+--------------
+	M29
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 1.5
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M30
+[
+No
+]
+--------------
+	M31
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 1.5
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 2
+
+Event:
+Square 3
+}
+STOP
+]
+--------------
+	M32
+[
+No
+]
+--------------
+	M33
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 1.5
+
+Event:
+Square 2
+}
+STOP
+]
+--------------
+	M34
+[
+No
+]
+--------------
+	M35
+[
+Yes
+	B1
+{
+Time:
+Beat 1
+
+Event:
+Square 1
+}
+
+{
+Time:
+Beat 1.5
+
+Event:
+Square 2
+}
+
+{
+Time:
+Beat 2
+
+Event:
+Square 3
+}
+
+{
+Time:
+Beat 2.5
+
+Event:
+Square 4
+}
+STOP
+]
+--------------
+	M36
+[
+NO
+]
+--------------
+	M37
+[
+NO
+]
+--------------
+	M38
+[
+END
+]
+

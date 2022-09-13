@@ -1,0 +1,39 @@
+HIT
+6
+
+START
+0
+Play 2
+STOP
+
+START
+1
+Play 2
+STOP
+
+START
+2
+Play 2
+STOP
+
+START
+3
+Play 2
+STOP
+
+START
+4
+Play 1
+Play 4
+STOP
+
+START
+6
+Play 1
+Play 3
+Play 4
+STOP
+
+START
+10
+END
